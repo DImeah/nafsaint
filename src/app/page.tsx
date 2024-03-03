@@ -27,8 +27,8 @@ export default function Home() {
         </div>
 
         <div className="space-y-4 px-4 flex-1" data-aos="fade-right">
-          <h2 className="text-neutral-800 font-bold ">WELCOME HERE</h2>
-          <p className="text-justify text-neutral-800 font-medium ">
+          <h2 className="text-neutral-800 font-bold text-xl ">WELCOME HERE</h2>
+          <p className="text-justify text-neutral-800 font-medium text-lg">
             The Nigerian Air Force School of Air Intelligence (NAFSAINT) is a
             training institution saddled with the responsibility of training
             personnel of the Armed Forces of Nigeria particularly the Nigerian
@@ -80,10 +80,10 @@ export default function Home() {
         </div>
       </section> */}
 
-      <section className="my-20 bg-lighterNafowaBlue h-[40vh] grid place-items-center px-4 ">
+      <section className="my-5 bg-lighterNafowaBlue h-[40vh] grid place-items-center px-4 ">
         <div className="max-w-4xl mx-auto px-4" data-aos="fade-up">
           <h2 className="text-xl font-bold">HOW WE DO IT</h2> <br />
-          <p className="text-lg">
+          <p className="text-lg font-medium">
             NAFSAINT relies on its dedicated and hardworking staff officers and
             airmen/airwomen instructors to carry out its mission. The school
             comprises of a trained team of instructors and partners with other
